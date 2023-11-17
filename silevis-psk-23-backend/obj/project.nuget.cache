@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "m2ekuyQdz9jHbLq85IjIVQLoFaADepiFjxKaBxqAb0h+vwhHgneRP8woYyndinYYa6kqHup1d7Ftwv6XhBJG2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mateusz\\source\\repos\\silevis-psk-23-backend\\silevis-psk-23-backend\\silevis-psk-23-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mateusz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Mateusz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mateusz\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Mateusz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Mateusz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Mateusz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

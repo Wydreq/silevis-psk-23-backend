@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "silevis-psk-23-backend", "silevis-psk-23-backend\silevis-psk-23-backend.csproj", "{6573C86B-F2BB-4583-9C5C-30DCF6A947AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6573C86B-F2BB-4583-9C5C-30DCF6A947AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6573C86B-F2BB-4583-9C5C-30DCF6A947AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6573C86B-F2BB-4583-9C5C-30DCF6A947AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6573C86B-F2BB-4583-9C5C-30DCF6A947AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {746A51CA-ADAE-4CF7-AB95-35B1BD5212D5}
+	EndGlobalSection
+EndGlobal
