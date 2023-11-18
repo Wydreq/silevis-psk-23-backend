@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5WNrdtGpto1LEeD+GBeZDk4Lm7tFH6dWWSYlUNkuGz6SHa+Y9HXixir0DAChYvAq5TFyOpRGAeOqBqeFlSIa5Q==",
+  "dgSpecHash": "9lNIFwM04PKiirB5O1Fq5wVRXJ4cwqmakugRbqT1giHyTh5rBOrrf9knNzkRVmBKepdGyCxncRG1sEXx3DX0Rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mateusz\\source\\repos\\api_v3\\api_v3\\api_v3.csproj",
+  "projectFilePath": "C:\\Users\\Mateusz\\source\\repos\\silevis-psk-23-backend\\api_v3\\api_v3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mateusz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Mateusz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -8555,11 +8555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mateusz\\source\\repos\\api_v3\\api_v3\\api_v3.csproj",
+      "projectUniqueName": "C:\\Users\\Mateusz\\source\\repos\\silevis-psk-23-backend\\api_v3\\api_v3.csproj",
       "projectName": "api_v3",
-      "projectPath": "C:\\Users\\Mateusz\\source\\repos\\api_v3\\api_v3\\api_v3.csproj",
+      "projectPath": "C:\\Users\\Mateusz\\source\\repos\\silevis-psk-23-backend\\api_v3\\api_v3.csproj",
       "packagesPath": "C:\\Users\\Mateusz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mateusz\\source\\repos\\api_v3\\api_v3\\obj\\",
+      "outputPath": "C:\\Users\\Mateusz\\source\\repos\\silevis-psk-23-backend\\api_v3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mateusz\\AppData\\Roaming\\NuGet\\NuGet.Config",
