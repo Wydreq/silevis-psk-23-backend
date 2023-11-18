@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\silevis-psk-23-backend.props" />
-</Project>

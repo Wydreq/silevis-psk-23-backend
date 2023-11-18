@@ -1,6 +1,0 @@
-@silevis_psk_23_backend_HostAddress = http://localhost:5081
-
-GET {{silevis_psk_23_backend_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
