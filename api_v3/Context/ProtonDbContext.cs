@@ -15,7 +15,7 @@ namespace api_v3.Context
         public ProtonDbContext(DbContextOptions<ProtonDbContext> options)
             : base(options)
         {
-
+            
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)

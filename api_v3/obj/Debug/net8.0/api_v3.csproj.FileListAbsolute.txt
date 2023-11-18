@@ -519,3 +519,7 @@ C:\Users\Mateusz\source\repos\silevis-psk-23-backend\api_v3\obj\Debug\net8.0\ref
 C:\Users\Mateusz\source\repos\silevis-psk-23-backend\api_v3\obj\Debug\net8.0\api_v3.pdb
 C:\Users\Mateusz\source\repos\silevis-psk-23-backend\api_v3\obj\Debug\net8.0\api_v3.genruntimeconfig.cache
 C:\Users\Mateusz\source\repos\silevis-psk-23-backend\api_v3\obj\Debug\net8.0\ref\api_v3.dll
+C:\Users\Mateusz\source\repos\silevis-psk-23-backend\api_v3\bin\Debug\net8.0\MediatR.dll
+C:\Users\Mateusz\source\repos\silevis-psk-23-backend\api_v3\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Mateusz\source\repos\silevis-psk-23-backend\api_v3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.DynamicLinq.dll
+C:\Users\Mateusz\source\repos\silevis-psk-23-backend\api_v3\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll

@@ -7,13 +7,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using api_v3.Context;
 using api_v3.Entities.dict;
+using MediatR;
 
 namespace api_v3.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class StudentsController : ControllerBase
+    public class StudentsController : BaseController
     {
+        //private readonly IMediator _mediator;
         private readonly ProtonDbContext _context;
 
         public StudentsController(ProtonDbContext context)
@@ -73,6 +75,11 @@ namespace api_v3.Controllers
             return NoContent();
         }
 
+        private bool StudentEntityExists(Guid id)
+        {
+            return _context.StudentEntity.Any(e => e.Id == id);
+        }
+
         // POST: api/Students
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
@@ -100,9 +107,5 @@ namespace api_v3.Controllers
             return NoContent();
         }
 
-        private bool StudentEntityExists(Guid id)
-        {
-            return _context.StudentEntity.Any(e => e.Id == id);
-        }
     }
 }
